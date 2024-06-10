@@ -102,4 +102,4 @@ I am currently pursuing a BTech degree and honing my skills in data structures a
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
