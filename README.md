@@ -55,7 +55,7 @@ I am currently pursuing a B.Tech degree and honing my skills in data structures 
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="45" padding="10px" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="45" padding="10px" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="45" padding="10px" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" padding="10px" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" padding="10px" /></a>  
