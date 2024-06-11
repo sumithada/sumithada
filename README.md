@@ -35,7 +35,7 @@ I am currently pursuing a B.Tech degree and honing my skills in data structures 
 - 🌱 I’m currently learning **Data Structures and Algorithms**  
   
 
-- ❓ Ask me about anything related to **ReactJs**  and **Problem Solving**  
+- ❓ Ask me about anything related to **HTML**, **CSS** **ReactJs**  and **Problem Solving**  
   
 
 - *Turning coffee into code and creativity into captivating UI/UX – let’s make the web beautiful, one React component at a time!*  
